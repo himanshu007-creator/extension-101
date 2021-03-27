@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension version="4.0" type="plugin" group="content" method="upgrade">
+   <name>plg_content_demo</name>
+   <author>Himanshu</author>
+   <creationDate>March 2021</creationDate>
+   <copyright>nah, you can use it</copyright>
+   <license>licence to work</license>
+   <authorEmail>addyjeridiq@gmail.com</authorEmail>
+   <authorUrl>github.com/himanshu007-creator</authorUrl>
+   <version>3.0.0</version>
+   <description>PLG_CONTENT_DEMO_XML_DESCRIPTION</description>
+   <files>
+      <filename plugin="content">demo.php</filename>
+   </files>
+</extension>
